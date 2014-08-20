@@ -1,4 +1,10 @@
-metro-ear
-=========
+Overear 碎耳
+============
 
-移动学习大师
+About
+-----
+碎耳: 碎片时间, 用耳朵汲取营养, 前生是metro-ear.
+
+Published by
+------------
+Allen Galler from FoCo Studio.
